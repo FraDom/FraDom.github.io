@@ -1,0 +1,67 @@
+.header{
+  width: 1000px;
+  height: 230px;
+
+}
+.logo {
+  display: inline-block;
+  width: 200px;
+  margin: 0;
+}
+.logo img{
+  width: 100%;
+}
+.LK img{
+	display:inline-block;
+	width:25px;
+	height:25px;
+	position: absolute;
+	left: 97%;
+	margin: 0 0 0 0;
+}
+.SET img{
+	display:inline-block;
+	width:25px;
+	height:25px;
+	position: absolute;
+	top:98%;
+	left: 97%;
+	margin: 0 0 0 0;
+}
+.Y img{
+	display:inline-block;
+	width:25px;
+	height:25px;
+	position: absolute;
+	left: 94%;
+	margin: 0 0 0 0;
+}
+.inf {
+	display:inline-block;
+	position: absolute;
+	left: 85%;
+	margin: 0 0 0 0;
+}
+.menu:before{
+	content:"";
+	display: inline-block;
+    height:100%;
+	vertical-align:bottom;
+}
+.button{
+  display: inline-block;
+  color: gray;
+  padding: 5px 25px;
+
+}
+.poiskovik:before{
+	display: inline-block;
+	content:"";
+	height:100%;
+	vertical-align:middle;
+	margin-left:50%;
+}
+.poisk:{
+
+}
+
